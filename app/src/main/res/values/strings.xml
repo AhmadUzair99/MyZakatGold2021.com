@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Zakat Gold</string>
+    <string name="copyright">Copyright &#169; 2021 Amirul &amp; Uzair</string>
+    <string name="about_text">RCS2405B MUHAMMAD AMIRUL HUSAINI BIN ASHAM 2019253538</string>
+    <string name="about_text2">RCS2405B AHMAD UZAIR BIN AZUKA 2019256214</string>
+    <string name="myText"> Link to Github <a href= "https://github.com/AhmadUzair99"> </a> </string>
+
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+
+    <string name="btnCalculate">Calculate</string>
+</resources>
